@@ -1,0 +1,300 @@
+/* on install admin notice */
+.saf_blue_notice {
+	/*border-color: #3468dd;*/
+}
+
+/* Login Page */
+#setting-error-saf_token_error_welcome {
+	display: none;
+}
+
+.saf_login_form_input {
+	padding: 4px 5px;
+	vertical-align: middle;
+}
+
+.saf_login_info {
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.saf_link {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.saf_inline .saf_btn_submit {
+	display: inline;
+	vertical-align: middle;
+}
+
+.saf_inline {
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.saf_inline p {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+/* Edit post */
+.saf_inserted_fire_link_window {
+	padding: 0 !important;
+	max-width: 0 !important;
+	padding-left: 5px !important;
+	display: inline !important;
+}
+
+.saf_make_fire_container_link_window {
+	margin-top: 5px !important;
+}
+
+.saf_link_preview {
+	margin-right: 2em!important;
+}
+
+.saf_make_fire_holder {
+	margin-right: 2px !important;
+}
+
+.saf_make_fire {
+	width: 28px !important;
+	height: 24px !important;
+	background-color: transparent !important;
+	background-size: auto 16px!important;
+	background-repeat: no-repeat !important;
+	background-position: 50% 50% !important;
+}
+
+	.saf_blue_fire {
+		background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" style="border: 0px;"><defs><style>.a,.b{fill:#3468dd;}.b{fill-rule:evenodd;}</style></defs><path class="a" d="M34.1,10.6l-2.3,1.9A14.9,14.9,0,0,1,10,30.6L7.7,32.5A17.8,17.8,0,0,0,34.1,10.6Z"/><circle class="a" cx="31.8" cy="9.9" r="3.2" transform="translate(18.9 40.6) rotate(-84.7)"/><path class="b" d="M26.7,15.3c0.2,3.5-2.2,5.6-3.4,5.6s-0.4-.9.2-2.1,0.1-4.8-1.9-6.5c0,4.7-7.1.1-3.4-5.5-3.8,3.3-7.2,6.2-6.4,11.8C12.7,21.4,8.9,21,8.9,17c-0.7,5.3,2.3,11.6,9.2,11.4s10.9-8.1,8.5-13h0Z"/><path class="a" d="M1.9,25.5l2.3-1.9A14.9,14.9,0,0,1,26.1,5.5l2.3-1.9A17.8,17.8,0,0,0,1.9,25.5Z"/><circle class="a" cx="4.3" cy="26.1" r="3.2" transform="translate(-22.1 28) rotate(-84.7)"/></svg>') !important;
+	}
+
+	.saf_gray_fire {
+		background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" style="border: 0px;"><defs><style>.a,.b{fill:#555d66;}.b{fill-rule:evenodd;}</style></defs><path class="a" d="M34.1,10.6l-2.3,1.9A14.9,14.9,0,0,1,10,30.6L7.7,32.5A17.8,17.8,0,0,0,34.1,10.6Z"/><circle class="a" cx="31.8" cy="9.9" r="3.2" transform="translate(18.9 40.6) rotate(-84.7)"/><path class="b" d="M26.7,15.3c0.2,3.5-2.2,5.6-3.4,5.6s-0.4-.9.2-2.1,0.1-4.8-1.9-6.5c0,4.7-7.1.1-3.4-5.5-3.8,3.3-7.2,6.2-6.4,11.8C12.7,21.4,8.9,21,8.9,17c-0.7,5.3,2.3,11.6,9.2,11.4s10.9-8.1,8.5-13h0Z"/><path class="a" d="M1.9,25.5l2.3-1.9A14.9,14.9,0,0,1,26.1,5.5l2.3-1.9A17.8,17.8,0,0,0,1.9,25.5Z"/><circle class="a" cx="4.3" cy="26.1" r="3.2" transform="translate(-22.1 28) rotate(-84.7)"/></svg>') !important;
+	}
+
+	.saf_fire_misc_pub_section {
+		margin-left: -4px;
+		margin-right: -2px;
+		display: inline-block;
+	}
+
+	.saf_pub_section_text {
+		vertical-align: 7px;
+	}
+
+	.saf_fire_red {
+		background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" style="border: 0px;"><defs><style>.a,.b{fill:#BE0000;}.b{fill-rule:evenodd;}</style></defs><path class="a" d="M34.1,10.6l-2.3,1.9A14.9,14.9,0,0,1,10,30.6L7.7,32.5A17.8,17.8,0,0,0,34.1,10.6Z"/><circle class="a" cx="31.8" cy="9.9" r="3.2" transform="translate(18.9 40.6) rotate(-84.7)"/><path class="b" d="M26.7,15.3c0.2,3.5-2.2,5.6-3.4,5.6s-0.4-.9.2-2.1,0.1-4.8-1.9-6.5c0,4.7-7.1.1-3.4-5.5-3.8,3.3-7.2,6.2-6.4,11.8C12.7,21.4,8.9,21,8.9,17c-0.7,5.3,2.3,11.6,9.2,11.4s10.9-8.1,8.5-13h0Z"/><path class="a" d="M1.9,25.5l2.3-1.9A14.9,14.9,0,0,1,26.1,5.5l2.3-1.9A17.8,17.8,0,0,0,1.9,25.5Z"/><circle class="a" cx="4.3" cy="26.1" r="3.2" transform="translate(-22.1 28) rotate(-84.7)"/></svg>') !important;
+	}
+
+/* Tooltip container */
+.saf_tooltip {
+	position: relative;
+	display: inline-block;
+	/*border-bottom: 1px dotted black;*/
+}
+
+/* Tooltip text */
+.saf_tooltip .tooltiptext {
+	visibility: hidden !important;
+	width: 200px !important;
+	min-width: 200px !important;
+	max-width: 200px !important;
+	left: -80%;
+	top: 100%;
+	margin-left: -60px !important;
+	margin-top: 8px !important;
+	background-color: #000 !important;
+	color: #fff !important;
+	text-align: center !important;
+	padding: 5px 0 !important;
+	border-radius: 4px !important;
+	
+	/* Position the tooltip text */
+	position: absolute !important;
+	z-index: 1000000000000 !important;
+	font-size: 12px !important;
+}
+
+	.saf_tooltip .saf_tooltip_small {
+		width: 170px !important;
+		min-width: 170px !important;
+		max-width: 170px !important;
+		left: -50%;
+	}
+
+.saf_tooltip .tooltiptext_big {
+	width: 180px !important;
+	min-width: 180px !important;
+	max-width: 180px !important;
+	left: 37% !important;
+}
+
+.saf_make_fire_container_link_window .tooltiptext {
+	margin-left: -70px !important;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.saf_tooltip:hover .tooltiptext {
+	visibility: visible !important;
+}
+
+/* Refresh page notice (bomba box
+*/
+#bomba {
+	position: fixed;
+	/*top: 168px;*/
+	top: 5% !important;
+	width: 100%;
+	text-align: center;
+	margin: 0px auto;
+	z-index: 1; 
+	background: none;
+	box-shadow: none;
+	border: none;
+}
+
+div.bomba_container {
+	padding: 8px 14px 8px 14px;
+	color: #fff;
+	background: #919191;
+	display: inline-block;
+	border-radius: 15px;
+	font-weight: 400;
+	width: auto;
+	cursor: default; 
+	border: 1px solid #BFBFBF;
+	background: #3468dd;
+}
+
+	div.bomba_container a {
+		color: #FFF;
+		text-decoration: underline; 
+	}
+
+	div.bomba_container a:hover {
+		text-decoration: none; 
+	}
+
+/* Settings Page */
+
+.saf_notice_welcome {
+	margin-top: 0 !important;
+}
+
+.saf_headings {
+	margin-bottom: 5px !important;
+}
+
+.saf_switch_account_btn {
+	background-color: transparent;
+	border: none;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	color: #0073aa;
+	text-decoration: underline;
+	transition-property: border,background,color;
+	transition-duration: .05s;
+	transition-timing-function: ease-in-out;
+}
+
+	.saf_switch_account_btn:active, .saf_switch_account_btn:hover {
+		cursor: pointer;
+		color: #00a0d2;
+	}
+
+.saf_profile_image {
+	width: 70px;
+}
+
+.saf_section {
+	margin-top: 30px;
+}
+
+	.saf_section h2 {
+		margin-bottom: 5px !important;
+		margin-top: 0 !important;
+	}
+
+.saf_profile_description {
+	display: inline-block;
+	padding-right: 6px;
+}
+
+	.saf_profile_description img {
+		border: 1px solid #a4a4a4;
+		border-radius: 2px;
+	}
+
+	.saf_profile_description h4, .saf_profile_description p {
+		margin: 4px 0 4px 0;
+	}
+
+	.saf_profile_description_right {
+		vertical-align: 10px;
+	}
+
+		.saf_profile_description_right .saf_descr_link_container {
+			margin-top: 6px;
+		}
+
+.saf_excluded_domains_container {
+	width: 400px
+}
+
+	.saf_excluded_domains_input input {
+		width: 74%;
+		vertical-align: middle;
+		padding: 4px 5px;
+	}
+
+	.saf_excluded_domains_input .saf_inline {
+		vertical-align: middle;
+		display: inline-block;
+	}
+
+.saf_table_wrap {
+	max-height: 220px;
+	background-color: transparent;
+	overflow-y: auto;
+	margin: 10px 0 0 0;
+}
+
+	.saf_table_wrap .dashicons-trash {
+		float: right;
+	}
+
+	.saf_table_wrap .widefat {
+		border: none;
+	}
+
+	.saf_table_wrap td {
+		border-bottom:1px solid #e5e5e5;
+	}
+
+		.saf_remove_domain {
+			opacity: 0.8;
+		}
+
+		.saf_remove_domain:hover {
+			opacity: 1;
+			cursor: pointer;
+		}
+
+.saf_text_block {
+	padding-bottom: 1em;
+}
+
+	.saf_text_block * {
+		margin: 0;
+		padding: 0;
+	}
+
+/* Pseudo selectors */
+.saf_section ::-webkit-scrollbar-track {
+	background-color: transparent;
+}
